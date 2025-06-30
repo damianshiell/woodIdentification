@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "specimen_id",
+      "common_name",
+      "latin_name",
+      "length_mm",
+      "weight_g",
+      "girth_top_mm",
+      "girth_bottom_mm",
+      "shape_description",
+      "moisture_content_percent",
+      "lighting_conditions",
+      "camera_type",
+      "scent_description",
+      "user_observations",
+      "chatgpt_observations",
+      "diagnostic_reasoning",
+      "potential_genus",
+      "potential_species",
+      "confidence_level",
+      "justification_summary",
+      "status",
+      "images",
+      "folder_url"
+    ],
+    "properties": {
+      "specimen_id": { "type": "string" },
+      "common_name": { "type": ["string", "null"] },
+      "latin_name": { "type": ["string", "null"] },
+      "length_mm": { "type": "integer" },
+      "weight_g": { "type": "integer" },
+      "girth_top_mm": { "type": "integer" },
+      "girth_bottom_mm": { "type": "integer" },
+      "shape_description": { "type": "string" },
+      "moisture_content_percent": { "type": "integer" },
+      "lighting_conditions": { "type": "string" },
+      "camera_type": { "type": "string" },
+      "scent_description": { "type": "string" },
+
+      "user_observations": {
+        "type": "object",
+        "required": ["bark", "end_grain", "cross_section"],
+        "properties": {
+          "bark": { "type": "string" },
+          "end_grain": { "type": ["string", "null"] },
+          "cross_section": { "type": ["string", "null"] }
+        }
+      },
+
+      "chatgpt_observations": {
+        "type": "object",
+        "required": ["bark_observations", "end_grain_observations", "cross_section_observations"],
+        "properties": {
+          "bark_observations": { "type": "string" },
+          "end_grain_observations": { "type": "string" },
+          "cross_section_observations": { "type": "string" }
+        }
+      },
+
+      "diagnostic_reasoning": { "type": "string" },
+      "potential_genus": { "type": "string" },
+      "potential_species": { "type": "string" },
+      "confidence_level": { "type": "string" },
+      "justification_summary": { "type": "string" },
+      "additional_notes": { "type": ["string", "null"] },
+      "status": { "type": "string" },
+
+      "validation": {
+        "type": ["object", "null"],
+        "properties": {
+          "resin_canals": { "type": "string" },
+          "tracheoid_diameter": { "type": "string" },
+          "earlywood_to_latewood_transition": { "type": "string" },
+          "grain_contrast": { "type": "string" },
+          "miscellaneous": { "type": "string" }
+        },
+        "required": [
+          "resin_canals",
+          "tracheoid_diameter",
+          "earlywood_to_latewood_transition",
+          "grain_contrast",
+          "miscellaneous"
+        ]
+      },
+
+      "potential_candidates": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["common_name", "latin_name"],
+          "properties": {
+            "common_name": { "type": "string" },
+            "latin_name": { "type": "string" }
+          }
+        }
+      },
+
+      "linked_resources": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["description", "url"],
+          "properties": {
+            "description": { "type": "string" },
+            "url": { "type": "string", "format": "uri" }
+          }
+        }
+      },
+
+      "images": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["description", "url"],
+          "properties": {
+            "description": { "type": "string" },
+            "url": { "type": "string", "format": "uri" }
+          }
+        },
+        "minItems": 1
+      },
+
+      "folder_url": { "type": "string", "format": "uri" }
+    }
+  }
+}
