@@ -1,0 +1,357 @@
+{
+  "specimens": [
+    {
+      "specimen_id": "0001",
+      "common_name": "Twisted Willow",
+      "latin_name": "Salix matsudana 'Tortuosa'",
+      "length_mm": 315,
+      "weight_g": 87,
+      "girth_top_mm": 27,
+      "girth_bottom_mm": 22,
+      "shape_description": "Cylindrical, slightly twisted",
+      "moisture_content_percent": 15,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Faint, earthy",
+      "user_observations": {
+        "bark_observations": "Smooth bark, twisted, short lenticels, oval to slightly elongated",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Smooth bark texture with occasional short lenticels; oval-shaped cross-section",
+        "end_grain_observations": "Light colored with minimal growth ring contrast",
+        "cross_section_observations": "Fine, smooth grain with subtle striations"
+      },
+      "diagnostic_reasoning": "Twisted growth pattern and bark lenticels consistent with Salix genus; moisture and weight consistent with willow wood.",
+      "potential_genus": "Salix",
+      "potential_species": "Salix matsudana 'Tortuosa'",
+      "confidence_level": "Confirmed",
+      "justification_summary": "Morphology and bark lenticels match known twisted willow characteristics",
+      "additional_notes": "Primary reference specimen from garden",
+      "status": "Confirmed",
+      "estimated_age_years": 15,
+      "images": [
+        {
+          "description": "Unoiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/j5gea7lq795cih2cike2l/IMG_20250630_104313826_HDR.jpg?rlkey=vatdud55rr8n1318ql7ewc47j&st=2z89uknj&dl=0"
+        },
+        {
+          "description": "Oiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/r5rq98agp3e6vyjj1w8l2/IMG_20250630_104321740_HDR.jpg?rlkey=9tw91wrzqf2w7m635jbrjo131&st=o5zap2d0&dl=0"
+        },
+        {
+          "description": "Cross section longitudinal view",
+          "url": "https://www.dropbox.com/scl/fi/e8o9nuuf4c3cr432quvke/IMG_20250630_104332086_HDR.jpg?rlkey=17r6ekxvtksq3jf98hndqb5tm&st=wwt6oi6s&dl=0"
+        },
+        {
+          "description": "Bark texture close-up",
+          "url": "https://www.dropbox.com/scl/fi/xk5r1awof9p907kiily0x/IMG_20250630_104337923_HDR.jpg?rlkey=i2tw9qr5m0fgng43ugipsaeug&st=wzbxvmcf&dl=0"
+        },
+        {
+          "description": "Full branch shot",
+          "url": "https://www.dropbox.com/scl/fi/n30hheeppm5lh4ldbveqi/IMG_20250630_104350801_HDR.jpg?rlkey=btuuo7pqj850mrtx4em8wczgw&st=7wyqt82b&dl=0"
+        }
+      ],
+      "folder_url": "https://www.dropbox.com/scl/fo/7pfdmi2kpkog232tj52kk/ADbUWn5_75LfpBqlQwkBUEo?rlkey=1qz6ofludbyhofr3da509npzd&st=yex3v65r&dl=0"
+    },
+    {
+      "specimen_id": "0002",
+      "common_name": "Holly",
+      "latin_name": "Ilex aquifolium",
+      "length_mm": 352,
+      "weight_g": 164,
+      "girth_top_mm": 32,
+      "girth_bottom_mm": 25,
+      "shape_description": "Oval cross-section, consistent diameter",
+      "moisture_content_percent": 13,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Very faint earthy, grassy",
+      "user_observations": {
+        "bark_observations": "Smooth, slightly knobbly, leathery texture, gently curved",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Smooth with small knobbles, characteristic leathery texture",
+        "end_grain_observations": "Fine growth rings with clear pith and radial rays",
+        "cross_section_observations": "Dense grain with distinct rays"
+      },
+      "diagnostic_reasoning": "Typical Ilex aquifolium bark texture and growth ring pattern; scent faint but consistent with holly; oval cross-section typical.",
+      "potential_genus": "Ilex",
+      "potential_species": "Ilex aquifolium",
+      "confidence_level": "Confirmed",
+      "justification_summary": "Morphology, scent, and grain structure consistent with holly",
+      "additional_notes": "Specimen from neighbor’s garden",
+      "status": "Confirmed",
+      "estimated_age_years": 25,
+      "images": [
+        {
+          "description": "Unoiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/ug1wag4ozugf0png0knjt/IMG_20250630_111953096_HDR.jpg?rlkey=818zjxrclr3mgfktyfnulasnr&st=4aio4m92&dl=0"
+        },
+        {
+          "description": "Oiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/2dqva3fsiv9eqezboxqzz/IMG_20250630_112003257_HDR.jpg?rlkey=hhbp0ng43594cbz44xho3up5z&st=2m9q8bq8&dl=0"
+        },
+        {
+          "description": "Cross section longitudinal",
+          "url": "https://www.dropbox.com/scl/fi/uhhuw8408cyb17tf8uyfk/IMG_20250630_112012137_HDR.jpg?rlkey=wmde6cmevnpjnote8mfnt9b6p&st=fouxodqf&dl=0"
+        },
+        {
+          "description": "Bark texture closeup",
+          "url": "https://www.dropbox.com/scl/fi/mptz6vvihlj0niesl7vpb/IMG_20250630_112021981_HDR.jpg?rlkey=b37w82y9srah419ubvq5pz1sc&st=x1hr4vf8&dl=0"
+        },
+        {
+          "description": "Full branch shot",
+          "url": "https://www.dropbox.com/scl/fi/7277c50xpyhxi8ma3qvez/IMG_20250630_112033504_HDR.jpg?rlkey=oitqz5zi5ikokz9rj5bjqmngw&st=rzdudav2&dl=0"
+        },
+        {
+          "description": "Alternate angle branch",
+          "url": "https://www.dropbox.com/scl/fi/vn19u58v6bclvz5xt5rzm/IMG_20250630_112046016_HDR.jpg?rlkey=qtms5s2vvkpvj9qrfsptqe8ui&st=m0rmxxly&dl=0"
+        }
+      ],
+      "folder_url": "https://www.dropbox.com/scl/fo/3tab3snr84ksuq5wtyty1/AEPSTQ_wwDHPiXfQLlOCtyg?rlkey=vxrwf72lrm9tank03jkssi1dt&st=uni7934d&dl=0"
+    }
+    ,
+    {
+      "specimen_id": "0003",
+      "common_name": "Silver Birch (Golden Lenticel Variant)",
+      "latin_name": "Betula pendula",
+      "length_mm": 323,
+      "weight_g": 93,
+      "girth_top_mm": 25,
+      "girth_bottom_mm": 25,
+      "shape_description": "Consistent cylindrical form",
+      "moisture_content_percent": 7,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Moderately faint, earthy with slight aromatic tone",
+      "user_observations": {
+        "bark_observations": "Golden bark with prominent raised black lenticels; smooth feel",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Bright golden bark color with black, raised lenticels; smooth texture",
+        "end_grain_observations": "Clear growth rings with diffuse porous structure",
+        "cross_section_observations": "Light colored wood with slight reddish hue"
+      },
+      "diagnostic_reasoning": "Golden lenticels and bark color consistent with silver birch variant; moisture and grain structure typical",
+      "potential_genus": "Betula",
+      "potential_species": "Betula pendula",
+      "confidence_level": "Probable Confirmed",
+      "justification_summary": "Bark and lenticel characteristics strongly match golden variant silver birch",
+      "additional_notes": "Primary reference for golden lenticel variety",
+      "status": "Probable Confirmed",
+      "estimated_age_years": 25,
+      "images": [
+        {
+          "description": "Unoiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/73lj6c7jahfbrxaep9l6f/IMG_20250630_115213062_HDR.jpg?rlkey=776dm2c4c8b9y36f7s5smgf7l&st=9uw456bb&dl=0"
+        },
+        {
+          "description": "Oiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/igho8xxpeurfjpew94njs/IMG_20250630_115224136_HDR.jpg?rlkey=hjq3mojzfdbf48cgf586f96a0&st=p0v4eih0&dl=0"
+        },
+        {
+          "description": "Cross section longitudinal",
+          "url": "https://www.dropbox.com/scl/fi/uqv5fn6stlijh8sxujk9w/IMG_20250630_115231020_HDR.jpg?rlkey=tqwni3inh5j5uu1ggb1tmabc4&st=c3deen0t&dl=0"
+        },
+        {
+          "description": "Bark texture close-up",
+          "url": "https://www.dropbox.com/scl/fi/ljak7yfv62ocfb1y9q7n9/IMG_20250630_115236526_HDR.jpg?rlkey=wycmmxmb4memxjr8dn9alzi1t&st=dsj5sagc&dl=0"
+        },
+        {
+          "description": "Full branch shot",
+          "url": "https://www.dropbox.com/scl/fi/38enwpo2ee0m34pldsbvp/IMG_20250630_115302175_HDR.jpg?rlkey=jytjw0ixekklr4i931egj2jp4&st=rdqra836&dl=0"
+        },
+        {
+          "description": "Alternate angle",
+          "url": "https://www.dropbox.com/scl/fi/zh7kawswczv4liscjetav/IMG_20250630_115315937_HDR.jpg?rlkey=2de494my31a4ufrgzhy4resiq&st=z2nbpwn6&dl=0"
+        },
+        {
+          "description": "Detail cross-section",
+          "url": "https://www.dropbox.com/scl/fi/040i69fw8qfin6jimamog/IMG_20250630_115329251_HDR.jpg?rlkey=h733dmku5znry3b3nbgtx2yok&st=tezui5hd&dl=0"
+        }
+      ],
+      "folder_url": "https://www.dropbox.com/scl/fo/bzz0epsgtxux2ju3jug0o/AEZeVnbMqrvqeOuKWJiraJo?rlkey=x1ox5t81fl4g222z4snschnu3&st=3uq3h088&dl=0"
+    },
+    {
+      "specimen_id": "0004",
+      "common_name": "Possible Confirmed Alder",
+      "latin_name": "Alnus glutinosa (probable)",
+      "length_mm": 357,
+      "weight_g": 131,
+      "girth_top_mm": 27,
+      "girth_bottom_mm": 30,
+      "shape_description": "Relatively consistent circular taper",
+      "moisture_content_percent": 13,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Faint sweet scent",
+      "user_observations": {
+        "bark_observations": "Smooth bark, light brown lenticels, slightly raised",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Smooth with light brown, raised lenticels approximately 4x1-2 mm, oval shaped",
+        "end_grain_observations": "Distinct growth rings; orange pith visible in unoiled section",
+        "cross_section_observations": "Wood light with subtle reddish hues"
+      },
+      "diagnostic_reasoning": "Smooth bark and lenticel morphology with orange pith supports alder ID; scent faint but present",
+      "potential_genus": "Alnus",
+      "potential_species": "Alnus glutinosa (probable)",
+      "confidence_level": "Possible Confirmed",
+      "justification_summary": "Bark and pith morphology strongly indicative of alder",
+      "additional_notes": "Reference link added for alder lenticel pattern comparison",
+      "status": "Possible Confirmed",
+      "estimated_age_years": 20,
+      "external_references": [
+        "https://images.app.goo.gl/wu4Xp"
+      ],
+      "images": [
+        {
+          "description": "Unoiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/mlzzo2ah7xq80qrprzie5/IMG_20250630_121447519_HDR.jpg?rlkey=paxlf92z6yc4dl2dhhz988250&st=wj4hva67&dl=0"
+        },
+        {
+          "description": "Oiled end grain macro",
+          "url": "https://www.dropbox.com/scl/fi/athnuezf9qu7tbxq7ymwu/IMG_20250630_121501676_HDR.jpg?rlkey=oyhaueozusbdja6m2kpmhgsdq&st=dn59bt7m&dl=0"
+        },
+        {
+          "description": "Cross section longitudinal",
+          "url": "https://www.dropbox.com/scl/fi/0a0nx8n7bdh111eh97cj7/IMG_20250630_121513452_HDR.jpg?rlkey=xxmswu1w0p9z4z7f8w7rd6u2z&st=tmsycy9i&dl=0"
+        },
+        {
+          "description": "Bark texture closeup",
+          "url": "https://www.dropbox.com/scl/fi/gbjdq6t2pmroehu8hu04q/IMG_20250630_121524786_HDR.jpg?rlkey=txj6stffdk6ptdmvtpbr3rwbb&st=zkxeoads&dl=0"
+        },
+        {
+          "description": "Full branch shot",
+          "url": "https://www.dropbox.com/scl/fi/qjo29el0yp897eyhzknhf/IMG_20250630_121549641_HDR.jpg?rlkey=7lrcrefnfe4yfhq2rf63ie4hb&st=jgn0l3oo&dl=0"
+        },
+        {
+          "description": "Alternate angle",
+          "url": "https://www.dropbox.com/scl/fi/7lan3acgat96iakjpu55s/IMG_20250630_121557782_HDR.jpg?rlkey=xexpejjpbt49nh5fvv4oqdjq0&st=fiswhllj&dl=0"
+        }
+      ],
+      "folder_url": "https://www.dropbox.com/scl/fo/tjxw2smwydb27u3dlipha/AM2k_dkXNrvQ2xUECGB7OJk?rlkey=71vbjhu3dpu08ks1wra473ng0&st=492hzgmp&dl=0"
+    }
+    ,
+    {
+      "specimen_id": "0005",
+      "common_name": "Silver Birch",
+      "latin_name": "Betula pendula",
+      "length_mm": 345,
+      "weight_g": 110,
+      "girth_top_mm": 25,
+      "girth_bottom_mm": 34,
+      "shape_description": "Conical taper from 25mm top to 34mm base",
+      "moisture_content_percent": 8.5,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Very faint pine-like aroma",
+      "user_observations": {
+        "bark_observations": "Smooth bark with medium brown lenticels; bark roughens near branch intersections; pale bark color overall.",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Smooth bark with medium brown lenticels; lenticels slightly raised; bark roughens near branch nodes.",
+        "end_grain_observations": "Growth rings visible and moderately distinct; diffuse porous structure; lighter sapwood and darker heartwood with subtle reddish streaks.",
+        "cross_section_observations": "Fine striations along grain, wood light-colored with subtle darker streaks."
+      },
+      "diagnostic_reasoning": "Bark texture and lenticels suggest pine genus. End grain diffuse porous pattern typical of softwood. Pine scent corroborates conifer ID. Growth rings and shape consistent with pine branch.",
+      "potential_genus": "Pinus",
+      "potential_species": "Likely Scots Pine (Pinus sylvestris) or related species",
+      "confidence_level": "Probable",
+      "justification_summary": "Morphological and scent data align with Pinus genus; branch shape and bark consistent with pine species.",
+      "additional_notes": "No needles or cones present for precise species ID. Bark roughness near nodes typical for branches. Resin scent faint but present.",
+      "status": "Draft",
+      "images": [
+        {
+          "description": "End grain cross section",
+          "url": "https://www.dropbox.com/scl/fi/a9782y9m3sqnxrtjx67ua/IMG_20250630_150107082_HDR.jpg?rlkey=i38vp4872c3dj3ooks905dhmm&st=3qwbfl62&dl=0"
+        },
+        {
+          "description": "Cross section longitudinal view",
+          "url": "https://www.dropbox.com/scl/fi/hpm9hqpbwz39bj0wxe5i7/IMG_20250630_150149741_HDR.jpg?rlkey=1rputhx3j0byyr0hze7e3fz4q&st=yjp1hb27&dl=0"
+        },
+        {
+          "description": "Bark texture closeup",
+          "url": "https://www.dropbox.com/scl/fi/2o6yhxy5j37v4v72c24mm/IMG_20250630_150200884_HDR.jpg?rlkey=fa3mfwmuo6qx5dy22s2jviphm&st=pgmyg8ii&dl=0"
+        },
+        {
+          "description": "Longitudinal bark section",
+          "url": "https://www.dropbox.com/scl/fi/vzxzjwcgcrjrs2qe9vim6/IMG_20250630_150212967_HDR.jpg?rlkey=p5cr7140kwvowvir0degl33ki&st=6w8ob364&dl=0"
+        },
+        {
+          "description": "Branch section detail",
+          "url": "https://www.dropbox.com/scl/fi/7aaduhnmy5yoo8sxxhbk3/IMG_20250630_150302384_HDR.jpg?rlkey=wofiu2sfhsnvka2si8g1czf7p&st=trsf1u0a&dl=0"
+        },
+        {
+          "description": "Branch end detail",
+          "url": "https://www.dropbox.com/scl/fi/j95knuneub3weg0dwu4n9/IMG_20250630_150311111_HDR.jpg?rlkey=pw9ur4spygtxx0ou6mtsvd2ni&st=x0exahet&dl=0"
+        },
+        {
+          "description": "Branch close up",
+          "url": "https://www.dropbox.com/scl/fi/zfdum3502lu8pclw3lp2s/IMG_20250630_150327373_HDR.jpg?rlkey=gafxapd20trt2yw8o1s0ms71t&st=i35wc79k&dl=0"
+        },
+        {
+          "description": "Branch curvature",
+          "url": "https://www.dropbox.com/scl/fi/p2jja4f4dul2i74jfdqpz/IMG_20250630_150358039_HDR.jpg?rlkey=9h99na6nic28gb4m5vl1dpoic&st=baa9e7kl&dl=0"
+        }
+      ],
+      "folder_url": "https://www.dropbox.com/scl/fo/24nak6pcyjrahulsr47xi/AN9l2bzUU6osa8jfAtsuEvA?rlkey=z36s65ejz2h31fv0fxp610vsi&st=6izyppee&dl=0"
+    },
+    {
+      "specimen_id": "0006",
+      "common_name": null,
+      "latin_name": null,
+      "length_mm": 345,
+      "weight_g": 110,
+      "girth_top_mm": 25,
+      "girth_bottom_mm": 34,
+      "shape_description": "Conical taper from 25mm top to 34mm base",
+      "moisture_content_percent": 8.5,
+      "lighting_conditions": "Workshop 6500K",
+      "camera_type": "Mobile",
+      "scent_description": "Very faint pine-like aroma",
+      "user_observations": {
+        "bark_observations": "Smooth bark with medium brown lenticels; bark roughens near branch intersections; pale bark color overall.",
+        "end_grain_observations": null,
+        "cross_section_observations": null
+      },
+      "observations": {
+        "bark_observations": "Smooth bark with medium brown lenticels; lenticels slightly raised; bark roughens near branch nodes.",
+        "end_grain_observations": "Growth rings visible and moderately distinct; diffuse porous structure; lighter sapwood and darker heartwood with subtle reddish streaks.",
+        "cross_section_observations": "Fine striations along grain, wood light-colored with subtle darker streaks."
+      },
+      "diagnostic_reasoning": "Bark texture and lenticels suggest pine genus. End grain diffuse porous pattern typical of softwood. Pine scent corroborates conifer ID. Growth rings and shape consistent with pine branch.",
+      "potential_genus": "Pinus",
+      "potential_species": "Likely Scots Pine (Pinus sylvestris) or related species",
+      "confidence_level": "Probable",
+      "justification_summary": "Morphological and scent data align with Pinus genus; branch shape and bark consistent with pine species.",
+      "additional_notes": "No needles or cones present for precise species ID. Bark roughness near nodes typical for branches. Resin scent faint but present.",
+      "status": "Draft",
+      "images": [
+        {
+          "description": "End grain cross section",
+          "url": null
+        },
+        {
+          "description": "Cross section longitudinal view",
+          "url": null
+        },
+        {
+          "description": "Bark texture closeup",
+          "url": null
+        }
+      ],
+      "folder_url": null
+    }
+  ]
+}
