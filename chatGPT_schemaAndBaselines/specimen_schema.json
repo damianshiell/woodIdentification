@@ -1,0 +1,333 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "specimen_id": {
+      "type": "string"
+    },
+    "common_name": {
+      "type": "null"
+    },
+    "latin_name": {
+      "type": "null"
+    },
+    "length_mm": {
+      "type": "integer"
+    },
+    "weight_g": {
+      "type": "integer"
+    },
+    "girth_top_mm": {
+      "type": "integer"
+    },
+    "girth_bottom_mm": {
+      "type": "integer"
+    },
+    "shape_description": {
+      "type": "string"
+    },
+    "moisture_content_percent": {
+      "type": "integer"
+    },
+    "lighting_conditions": {
+      "type": "string"
+    },
+    "camera_type": {
+      "type": "string"
+    },
+    "scent_description": {
+      "type": "string"
+    },
+    "user_observations": {
+      "type": "object",
+      "properties": {
+        "bark": {
+          "type": "string"
+        },
+        "end_grain": {
+          "type": "null"
+        },
+        "cross_section": {
+          "type": "null"
+        }
+      },
+      "required": [
+        "bark",
+        "end_grain",
+        "cross_section"
+      ]
+    },
+    "chatgpt_observations": {
+      "type": "object",
+      "properties": {
+        "bark_observations": {
+          "type": "string"
+        },
+        "end_grain_observations": {
+          "type": "string"
+        },
+        "cross_section_observations": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bark_observations",
+        "end_grain_observations",
+        "cross_section_observations"
+      ]
+    },
+    "diagnostic_reasoning": {
+      "type": "string"
+    },
+    "potential_genus": {
+      "type": "string"
+    },
+    "potential_species": {
+      "type": "string"
+    },
+    "confidence_level": {
+      "type": "string"
+    },
+    "justification_summary": {
+      "type": "string"
+    },
+    "additional_notes": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "validation": {
+      "type": "object",
+      "properties": {
+        "resin_canals": {
+          "type": "string"
+        },
+        "tracheoid_diameter": {
+          "type": "string"
+        },
+        "earlywood_to_latewood_transition": {
+          "type": "string"
+        },
+        "grain_contrast": {
+          "type": "string"
+        },
+        "miscellaneous": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "resin_canals",
+        "tracheoid_diameter",
+        "earlywood_to_latewood_transition",
+        "grain_contrast",
+        "miscellaneous"
+      ]
+    },
+    "potential_candidates": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "common_name": {
+              "type": "string"
+            },
+            "latin_name": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "common_name",
+            "latin_name"
+          ]
+        }
+      ]
+    },
+    "images": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "url"
+          ]
+        }
+      ]
+    },
+    "folder_url": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "specimen_id",
+    "common_name",
+    "latin_name",
+    "length_mm",
+    "weight_g",
+    "girth_top_mm",
+    "girth_bottom_mm",
+    "shape_description",
+    "moisture_content_percent",
+    "lighting_conditions",
+    "camera_type",
+    "scent_description",
+    "user_observations",
+    "chatgpt_observations",
+    "diagnostic_reasoning",
+    "potential_genus",
+    "potential_species",
+    "confidence_level",
+    "justification_summary",
+    "additional_notes",
+    "status",
+    "validation",
+    "potential_candidates",
+    "images",
+    "folder_url"
+  ]
+}

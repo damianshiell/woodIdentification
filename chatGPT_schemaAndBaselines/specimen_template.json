@@ -1,0 +1,87 @@
+{
+    "specimen_id": "WID-2025-0006",
+    "common_name": null,
+    "latin_name": null,
+    "length_mm": 345,
+    "weight_g": 110,
+    "girth_top_mm": 25,
+    "girth_bottom_mm": 33,
+    "shape_description": "Conical taper from 25mm to 33mm",
+    "moisture_content_percent": 9,
+    "lighting_conditions": "Workshop 6500K",
+    "camera_type": "Mobile",
+    "scent_description": "Very faint pine-like aroma",
+    "user_observations": {
+      "bark": "Smooth bark with sparse medium brown lenticels; bark roughens near branch intersections.",
+      "end_grain": null,
+      "cross_section": null
+    },
+    "chatgpt_observations": {
+      "bark_observations": "Smooth bark with medium brown, raised lenticels; rougher near nodes",
+      "end_grain_observations": "Diffuse porous wood, subtle growth ring visibility",
+      "cross_section_observations": "Light colored with subtle grain streaks"
+    },
+    "diagnostic_reasoning": "Bark texture and lenticel pattern, along with scent and grain pattern, consistent with pine species.",
+    "potential_genus": "Pinus",
+    "potential_species": "Likely Scots Pine (Pinus sylvestris) or related species",
+    "confidence_level": "Probable",
+    "justification_summary": "Morphological and scent data support pine genus; branch shape and bark typical for pine.",
+    "additional_notes": "No needles or cones available for more precise species ID; resin scent faint but present.",
+    "status": "Draft",
+    "validation": {
+      "resin_canals": "Small and sporadic",
+      "tracheoid_diameter": "Medium",
+      "earlywood_to_latewood_transition": "Moderately gradual",
+      "grain_contrast": "Low",
+      "miscellaneous": "Diffuse parenchyma"
+    },
+    "potential_candidates": [
+      {
+        "common_name": "Scots Pine",
+        "latin_name": "Pinus sylvestris"
+      }
+    ],
+    "images": [
+      {
+        "description": "End grain cross section",
+        "url": "https://www.dropbox.com/scl/fi/d3jiwqj3qidxuz31dv4nh/IMG_20250630_172647120_HDR.jpg?rlkey=9zjgxrb60z79ch8mpeckfqqjl&st=4y51omd6&dl=0"
+      },
+      {
+        "description": "Cross section longitudinal view",
+        "url": "https://www.dropbox.com/scl/fi/xrlmjzn48w6avyflnpehc/IMG_20250630_172735153_HDR.jpg?rlkey=5nidiiw24tto2tj8j77thssx6&st=t8c8w54b&dl=0"
+      },
+      {
+        "description": "Bark texture closeup",
+        "url": "https://www.dropbox.com/scl/fi/l3m9eryq0u1fv44jpnmw5/IMG_20250630_172752791_HDR.jpg?rlkey=7uaq784zr2daynjzcs37ugqcr&st=rjvpofjk&dl=0"
+      },
+      {
+        "description": "Branch full photo",
+        "url": "https://www.dropbox.com/scl/fi/dk1g49slcyila2rhhm174/IMG_20250630_172807613_HDR.jpg?rlkey=l0l3oa436z4snzkw90qeuk5kk&st=17tkwcvj&dl=0"
+      },
+      {
+        "description": "Bark macro detail",
+        "url": "https://www.dropbox.com/scl/fi/ynv3ny1g5d6fpme8902zd/IMG_20250630_172813298_HDR.jpg?rlkey=tpowoxgcg0lllp4pl26zbloa4&st=xs7qax41&dl=0"
+      },
+      {
+        "description": "Branch texture closeup",
+        "url": "https://www.dropbox.com/scl/fi/12azitzkgo63epv7ofgz5/IMG_20250630_172818813_HDR.jpg?rlkey=dymr1gomek1sml1buqk0en6f9&st=rhhkfoqi&dl=0"
+      },
+      {
+        "description": "Additional branch closeup",
+        "url": "https://www.dropbox.com/scl/fi/44edc9zk6vxnts6hahkyp/IMG_20250630_172833536_HDR.jpg?rlkey=3cfoi89yfudgwc4ee2o1zn13e&st=cm24388l&dl=0"
+      },
+      {
+        "description": "Branch end grain",
+        "url": "https://www.dropbox.com/scl/fi/063qtc62491f0ne75oevh/IMG_20250630_172945086_HDR.jpg?rlkey=gb2hdi8edcflpd2l64nrt02ke&st=31l9gg06&dl=0"
+      },
+      {
+        "description": "Branch end grain 2",
+        "url": "https://www.dropbox.com/scl/fi/e3smgscz8qpxl87fhm5sr/IMG_20250630_172948522_HDR.jpg?rlkey=9varbn7s9gescsrlx02om2w63&st=p6lm4v3g&dl=0"
+      },
+      {
+        "description": "Branch full",
+        "url": "https://www.dropbox.com/scl/fi/gad6scaeevnledbuo3a4k/IMG_20250630_173040303_HDR.jpg?rlkey=c93ut8ehbielb86vs1jsa8uy5&st=t8mb64tr&dl=0"
+      }
+    ],
+    "folder_url": "https://www.dropbox.com/scl/fo/wxl0nhavym0d04bkxpsje/AMxMFpGz4r0pmUXSl5pntY0?rlkey=qkdiicg0hfyvrmcznqd9hfo63&st=tfuvfe51&dl=0"
+  }
